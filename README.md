@@ -1,5 +1,10 @@
 Lab Project 1: Building a Tokenizer
 ===================================
+
+
+
+//hi for a commit
+
 A related demo program is in directory "sortArgDemo".  All encouraged
 to thorougly understand it before attempting this project.
 
